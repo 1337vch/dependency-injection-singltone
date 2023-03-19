@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="424509f6-924c-42d3-88b7-89e061284ae2" name="Changes" comment="da">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ma/moustahsane/ioccdi/dao/DaoV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/moustahsane/ioccdi/dao/DaoV2.java" afterDir="false" />
-    </list>
+    <list default="true" id="424509f6-924c-42d3-88b7-89e061284ae2" name="Changes" comment="da" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678622365200</updated>
       <workItem from="1678622365916" duration="4768000" />
-      <workItem from="1679217905890" duration="3063000" />
+      <workItem from="1679217905890" duration="3417000" />
     </task>
     <servers />
   </component>
