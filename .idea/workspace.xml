@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="424509f6-924c-42d3-88b7-89e061284ae2" name="Changes" comment="da">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ma/moustahsane/ioccdi/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ma/moustahsane/ioccdi/MainDynamic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ma/moustahsane/ioccdi/MainStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ma/moustahsane/ioccdi/MainXML.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ma/moustahsane/ioccdi/dao/Dao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ma/moustahsane/ioccdi/dao/DaoV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ma/moustahsane/ioccdi/dao/IDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ma/moustahsane/ioccdi/services/IMetier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ma/moustahsane/ioccdi/services/ext/MetierImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/moustahsane/ioccdi/dao/DaoV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/moustahsane/ioccdi/dao/DaoV2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +66,20 @@
       <recent name="ma.moustahsane.ioccdi.services" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainXML">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ma.moustahsane.ioccdi.Main" />
+      <module name="spring-ioc-cdi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ma.moustahsane.ioccdi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainDynamic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ma.moustahsane.ioccdi.MainDynamic" />
       <module name="spring-ioc-cdi" />
@@ -123,6 +121,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainXML" />
         <item itemvalue="Application.MainDynamic" />
         <item itemvalue="Application.MainStatic" />
@@ -138,7 +137,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678622365200</updated>
       <workItem from="1678622365916" duration="4768000" />
-      <workItem from="1679217905890" duration="2743000" />
+      <workItem from="1679217905890" duration="3063000" />
     </task>
     <servers />
   </component>
